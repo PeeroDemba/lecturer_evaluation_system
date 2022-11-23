@@ -16,7 +16,7 @@
     <h1> ONLINE LECTURER EVALUATION SYSTEM </h1>
 </header>
     <h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Welcome <?php echo $user["FullName"] ?></h1>
-    <a href="./student_homepage.php" class="btn1">Click to HomePage</a>
+    <a href="./student_homepage.php" class="btn1">Survey Panel</a>
     <br>
     <a href="./logout.php" class="btn2">Logout</a>
 </div>
